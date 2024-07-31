@@ -1,0 +1,4 @@
+/target
+temporal.db
+.env
+node_modules

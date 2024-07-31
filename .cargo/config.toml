@@ -1,0 +1,3 @@
+[env]
+RUST_LOG="debug"
+DATABASE_URL="postgresql://gabo:gabo@localhost:5432/gabo?sslmode=disable"

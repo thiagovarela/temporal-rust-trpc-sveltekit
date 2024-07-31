@@ -1,0 +1,5 @@
+{
+	"dependencies": {		
+		"dbmate": "^2.19.0"
+	}
+}
